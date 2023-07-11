@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "130479598157",
+    "project_id": "quran-31e5d",
+    "storage_bucket": "quran-31e5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130479598157:android:97c1f23e40331809898a04",
+        "android_client_info": {
+          "package_name": "com.hobbs.Quran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130479598157-3tir041pq165tku294aivv44kfqdmchj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hobbs.Quran",
+            "certificate_hash": "266d752b23b821e6f8c08cedda433ed1e6182e5a"
+          }
+        },
+        {
+          "client_id": "130479598157-duustburf2ne9mntvd4v8monc65crvua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hobbs.Quran",
+            "certificate_hash": "cb9c45b60bd13fd16994da5b87568a832ac6dbb2"
+          }
+        },
+        {
+          "client_id": "130479598157-t8nn9bbovsibf6bltan22ftu0qqvq6ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHz52tSmQIfMFg9bsoiWF4w4O_Q0wbw0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130479598157-t8nn9bbovsibf6bltan22ftu0qqvq6ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
