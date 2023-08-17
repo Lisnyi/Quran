@@ -7,3 +7,4 @@ The settings page implements:
 - changing the language of the application;
 - the ability to leave feedback or report a problem that exists in the application, which will be sent to my email address;
 - willingness to distribute the application
+There is also an option to send notifications via Firebase Cloud Messaging
